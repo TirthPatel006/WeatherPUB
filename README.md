@@ -26,4 +26,4 @@ A simple and responsive weather web application built using **HTML**, **CSS**, a
 
 ---
 ## Check Out 
-https://weather-mauve-omega.vercel.app/
+https://TheClassicWeather.vercel.app/
